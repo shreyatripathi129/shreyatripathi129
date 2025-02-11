@@ -16,7 +16,7 @@ Feel free to explore my repositories, where I share projects and solutions relat
 ---
 
 ### Machine Learning and Data Science:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/matplotlib-%23013243.svg?style=for-the-badge&logo=matplotlib&logoColor=white)  
 
 
 ---
