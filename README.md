@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a passionate Engineer with over 3 years of experience in data science and engineering field, focusing on operational optimization, data pipeline support, and customer experience improvement
+I'm a passionate Engineer with over 3 years of experience in data science and engineering field, focusing on operational optimization, data pipeline support, and customer experience improvement.
+
+Currently, I work at **Tata Consultancy Services (TCS)**, where I provide support for data engineering projects and ensure the smooth operation of data systems and pipelines.
 
 I specialize in working with technologies such as **AWS**, **Python**, **SQL**, and **Airflow**, providing critical support in maintaining, troubleshooting, and optimizing data pipelines. My role involves ensuring the reliability of data flows, assisting with data transformations, and resolving technical issues to guarantee that end-to-end data processes run efficiently.
 
